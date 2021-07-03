@@ -4,7 +4,7 @@
   "description": "Drag & Drop",
   "main": "index.js",
   "scripts": {
-    "start": "gulp",
+    "dev": "gulp",
     "deploy": "gh-pages -d dist"
   },
   "author": "",
